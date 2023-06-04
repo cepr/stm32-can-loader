@@ -1,6 +1,6 @@
 {
   "name": "stm32-can-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Firmware loader for the STM32 CAN bootloader (AN3154)",
   "bin": "./stm32-can-loader.js",
   "author": {
