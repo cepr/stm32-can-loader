@@ -1,0 +1,13 @@
+{
+  "name": "stm32-can-loader",
+  "version": "1.0.0",
+  "description": "Firmware loader for the STM32 CAN bootloader (AN3154)",
+  "bin": "./stm32-can-loader.js",
+  "author": "Cedric Priscal",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "cli-progress": "^3.12.0",
+    "elfy": "^1.0.0",
+    "socketcan": "^4.0.3"
+  }
+}
